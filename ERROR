@@ -1,0 +1,100 @@
+Jan 04, 2023 3:10:02 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version name:   Apache Tomcat/9.0.67
+Jan 04, 2023 3:10:02 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Sep 23 2022 11:22:29 UTC
+Jan 04, 2023 3:10:02 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version number: 9.0.67.0
+Jan 04, 2023 3:10:02 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 10
+Jan 04, 2023 3:10:02 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.0
+Jan 04, 2023 3:10:02 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Jan 04, 2023 3:10:02 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Users\CLSS-IT-PC072\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.5.v20221102-0933\jre
+Jan 04, 2023 3:10:02 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           17.0.5+8
+Jan 04, 2023 3:10:02 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Eclipse Adoptium
+Jan 04, 2023 3:10:02 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         D:\ws\.metadata\.plugins\org.eclipse.wst.server.core\tmp0
+Jan 04, 2023 3:10:02 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         D:\apache-tomcat-9.0.67
+Jan 04, 2023 3:10:02 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -XX:+ShowCodeDetailsInExceptionMessages
+Jan 04, 2023 3:10:02 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -agentlib:jdwp=transport=dt_socket,suspend=y,address=localhost:63946
+Jan 04, 2023 3:10:02 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -javaagent:C:\Users\CLSS-IT-PC072\eclipse\jee-2022-06\eclipse\configuration\org.eclipse.osgi\407\0\.cp\lib\javaagent-shaded.jar
+Jan 04, 2023 3:10:02 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=D:\ws\.metadata\.plugins\org.eclipse.wst.server.core\tmp0
+Jan 04, 2023 3:10:02 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=D:\apache-tomcat-9.0.67
+Jan 04, 2023 3:10:02 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dwtp.deploy=D:\ws\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps
+Jan 04, 2023 3:10:02 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+Jan 04, 2023 3:10:02 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+Jan 04, 2023 3:10:02 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+Jan 04, 2023 3:10:02 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+Jan 04, 2023 3:10:02 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Jan 04, 2023 3:10:02 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dfile.encoding=UTF-8
+Jan 04, 2023 3:10:02 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Loaded Apache Tomcat Native library [1.2.35] using APR version [1.7.0].
+Jan 04, 2023 3:10:02 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+Jan 04, 2023 3:10:02 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+Jan 04, 2023 3:10:02 PM org.apache.catalina.core.AprLifecycleListener initializeSSL
+INFO: OpenSSL successfully initialized [OpenSSL 1.1.1q  5 Jul 2022]
+Jan 04, 2023 3:10:02 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+Jan 04, 2023 3:10:02 PM org.apache.catalina.startup.Catalina load
+INFO: Server initialization in [576] milliseconds
+Jan 04, 2023 3:10:02 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Catalina]
+Jan 04, 2023 3:10:02 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.67]
+Jan 04, 2023 3:10:07 PM org.apache.jasper.servlet.TldScanner scanJars
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Jan 04, 2023 3:10:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: 2 Spring WebApplicationInitializers detected on classpath
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.1.2.RELEASE)
+
+2023-01-04 15:10:08.328  INFO 8072 --- [           main] com.clss.visitor.ServletInitializer      : Starting ServletInitializer v0.0.1-SNAPSHOT on CLSS-IT-PC072 with PID 8072 (D:\ws\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\visitor\WEB-INF\classes started by CLSS-IT-PC072 in C:\Users\CLSS-IT-PC072\Desktop)
+2023-01-04 15:10:08.335  INFO 8072 --- [           main] com.clss.visitor.ServletInitializer      : No active profile set, falling back to default profiles: default
+2023-01-04 15:10:09.857  INFO 8072 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2023-01-04 15:10:09.987  INFO 8072 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 117ms. Found 7 repository interfaces.
+2023-01-04 15:10:10.581  INFO 8072 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$2957f666] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-01-04 15:10:10.643  INFO 8072 --- [           main] o.a.c.c.C.[.[localhost].[/visitor]       : Initializing Spring embedded WebApplicationContext
+2023-01-04 15:10:10.643  INFO 8072 --- [           main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2237 ms
+2023-01-04 15:10:11.490  INFO 8072 --- [           main] com.zaxxer.hikari.HikariDataSource       : VISITORPOOL - Starting...
+2023-01-04 15:10:13.958  INFO 8072 --- [           main] com.zaxxer.hikari.HikariDataSource       : VISITORPOOL - Start completed.
+2023-01-04 15:10:14.041  INFO 8072 --- [           main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2023-01-04 15:10:14.185  INFO 8072 --- [           main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.3.7.Final}
+2023-01-04 15:10:14.189  INFO 8072 --- [           main] org.hibernate.cfg.Environment            : HHH000206: hibernate.properties not found
+2023-01-04 15:10:14.475  INFO 8072 --- [           main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2023-01-04 15:10:14.960  INFO 8072 --- [           main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-01-04 15:10:16.039  INFO 8072 --- [           main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-01-04 15:10:17.138  INFO 8072 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2023-01-04 15:10:17.222  WARN 8072 --- [           main] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-01-04 15:10:17.616  INFO 8072 --- [           main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2023-01-04 15:10:17.677  INFO 8072 --- [           main] com.clss.visitor.ServletInitializer      : Started ServletInitializer in 9.917 seconds (JVM running for 16.079)
+2023-01-04 15:10:17.738  INFO 8072 --- [           main] org.apache.catalina.startup.Catalina     : Server startup in [15148] milliseconds
+2023-01-04 15:10:22.967  INFO 8072 --- [nio-8080-exec-1] o.a.c.c.C.[.[localhost].[/visitor]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-04 15:10:22.967  INFO 8072 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-01-04 15:10:22.979  INFO 8072 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 12 ms
